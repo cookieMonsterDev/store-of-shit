@@ -1,0 +1,22 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "editor.accessibilitySupport": "off",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "update.mode": "none",
+  "window.zoomLevel": 1,
+  "editor.unicodeHighlight.allowedLocales": {
+    "es": true
+  },
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.rulers": [80]
+}
