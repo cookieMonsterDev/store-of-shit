@@ -1,3 +1,5 @@
+Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):cd 
+
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension ecmel.vscode-html-css
@@ -12,3 +14,5 @@ code --install-extension Prisma.prisma
 code --install-extension ritwickdey.LiveServer
 code --install-extension styled-components.vscode-styled-components
 code --install-extension wix.vscode-import-cost
+
+/r
