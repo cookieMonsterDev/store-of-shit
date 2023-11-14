@@ -1,7 +1,6 @@
 {
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "files.autoSave": "afterDelay",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.tabSize": 2,
@@ -11,13 +10,22 @@
   },
   "emmet.triggerExpansionOnTab": true,
   "update.mode": "none",
-  "window.zoomLevel": 1,
   "editor.unicodeHighlight.allowedLocales": {
     "es": true
   },
   "explorer.confirmDelete": false,
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
-  "editor.rulers": [80]
+  "editor.rulers": [80],
+  "window.zoomLevel": 1,
+  "[cpp]": {
+    "editor.wordBasedSuggestions": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.semanticHighlighting.enabled": true
+  },
+  "files.autoSave": "afterDelay",
+  "code-runner.runInTerminal": true,
+  "code-runner.terminalRoot": "/"
 }
+
 
