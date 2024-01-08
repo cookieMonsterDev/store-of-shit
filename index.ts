@@ -64,8 +64,7 @@ asd
   {
     experience_years: 1.3,
     employment_status: "EMPLOYED",
-    job_title: "Full-stack Engineer",
-  }
+    job_title: "Full-stack Engineer",asfasf
 
 */
 
