@@ -35,24 +35,3 @@ class MyLife {
     };
   }
 }
-
-/**
-  Event 1:
- 
-  {
-    experience_years: 0,
-
-    job_title: "Full-stack Engineer",asfasf
-
-*/
-
-/**
-  Event 3:
- 
-  {
-    experience_years: 1.8,
-    employment_status: "UNEMPLOYED",
-    job_title: "Searching for Job",
-  }
-
-*/
