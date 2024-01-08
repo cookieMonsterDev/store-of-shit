@@ -41,29 +41,7 @@ class MyLife {
  
   {
     experience_years: 0,
-    employment_status: "EMPLOYED",
-    job_title: "QA Engineer",
-  }
 
-*/
-
-/**
-  Event 2:
- 
-  {
-    experience_years: 0.7,
-    employment_status: "EMPLOYED",
-    job_title: "JavaScript Front-end Engineer",
-  }
-
-*/
-asd
-/**
-  Event 3:
- 
-  {
-    experience_years: 1.3,
-    employment_status: "EMPLOYED",
     job_title: "Full-stack Engineer",asfasf
 
 */
