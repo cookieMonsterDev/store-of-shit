@@ -27,11 +27,5 @@ class MyLife {
     });
   }
 
-  getLifeState() {
-    return {
-      experience_years: this._experience_years,
-      employment_status: this._employment_status,
-      job_title: this._job_title,
-    };
-  }
+
 }
