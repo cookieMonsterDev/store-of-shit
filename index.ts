@@ -17,9 +17,7 @@ class MyLife {
   _initSocket() {
     this._lifeUpdates = io("ws://my-life.com");
 
-    this._lifeUpdates.on("update", (data) => {
-      this._experience_years = data.experience_years || this._experience_years;
-      this._employment_status =
+    this._lifeUpdates.
         data.employment_status || this._employment_status;
       this._job_title as
     });
