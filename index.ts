@@ -18,9 +18,7 @@ class MyLife {
     this._lifeUpdates = io("ws://my-life.com");
 
     this._lifeUpdates.
-        data.employment_status || this._employment_status;
-      this._job_title as
-    });
+ 
   }
 
 
