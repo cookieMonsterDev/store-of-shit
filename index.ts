@@ -21,9 +21,7 @@ class MyLife {
       this._experience_years = data.experience_years || this._experience_years;
       this._employment_status =
         data.employment_status || this._employment_status;
-      this._job_title = data.job_title || this._job_title;
-
-      console.log(this.getLifeState());
+      this._job_title as
     });
   }
 
