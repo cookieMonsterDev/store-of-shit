@@ -35,6 +35,5 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dol
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi 
 
