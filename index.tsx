@@ -33,7 +33,7 @@ Lorem ipsum dolor sit, amet consectetur adipiicig elit. Similique hic quia dolor
 Lorem ipsum dolor sit, amet consecteturadipisicing elit. Similique hic qui dolores Ipsum eos temporibs omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolr debitis taque, harum non similique.
 Lorem ipsum dolor sit, amet consectetur adipisicing eit. Similique hic quia dolores. Ipsumeos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debits itaque, harum non similique.lo
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempribus incidunt comodi erum cum. Tempore ab, officiis exceptur blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic qua delectus quia.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi erum cum. Tempore ab, officiis exepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt comodi erum cum. Tempore ab, officiis exepturi blanditiis architecto repudiandae est a ad asperiores perferendis ullam hic quam delectus quia.
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus incidunt commodi rerum cum. Tempore ab, officiis excepturi 
 
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis excepturi voluptatibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
