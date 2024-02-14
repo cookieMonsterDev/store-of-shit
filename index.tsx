@@ -60,7 +60,7 @@ tibus fugit saepe, temporibus laboriosam magni fuga animi repdiandae delectus eu
 tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandaeelectus eumna nemo autem alias quidem dicta molestias id.
 tibus fugit saepe, temporibus laboriosam magni fuga aimi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
 tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
-tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
+tibus fugit saepe, temporibus laboriosam magni fuga animi repudlectus eum, non a nemo autem alias quidem dicta molestias id.
 tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
 import { io } from "socket.io-client";
 
