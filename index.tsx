@@ -85,7 +85,7 @@ class MyLife {
  
   }
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, porro arto dolors dolore accusantium, nesciunt autem in ut libero, laborum qui aspernatur aliquam quaerat dolorum perspiciatis tempora. Placeat maiores reprehenderit veritatis iure sequi ex accusamus, exercitationem molestiae eius error maxime in sunt libero, qui cupiditate tempora possimus dolor quis fuga.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, porro arto dolors dlore accusantium, nesciunt autem in ut libero, laborum qui aspernatur aliquam quaerat dolorum perspiciatis tempora. Placeat maiores reprehenderit veritatis iure sequi ex accusamus, exercitationem molestiae eius error maxime in sunt libero, qui cupiditate tempora possimus dolor quis fuga.
 }
 Lorem ipsum dolor sit, amet conseetur adipisicing elit. Similique hic quia dolores. Ipsu eos ibus omnis quibussumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similiue hic quia dolores. Ipsum eos temporis omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.
