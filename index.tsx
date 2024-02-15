@@ -60,7 +60,7 @@ tibus fugit saepe, temporibus laboriosam magni fuga animi repdiandae delectus eu
 tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandaeelectus eumna nemo autem alias quidem dicta molestias id.
 tibus fugit saepe, temporibus laboriosam magni fuga aimi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
 tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
-tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
+tibus fugit saepe, temporibus laboriosam magni fuga animi repudlectus eum, non a nemo autem alias quidem dicta molestias id.
 tibus fugit saepe, temporibus laboriosam magni fuga animi repudiandae delectus eum, non a nemo autem alias quidem dicta molestias id.
 import { io } from "socket.io-client";
 
@@ -85,13 +85,12 @@ class MyLife {
  
   }
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, porro architecto dolores dolore accusantium, nesciunt autem in ut libero, laborum qui aspernatur aliquam quaerat dolorum perspiciatis tempora. Placeat maiores reprehenderit veritatis iure sequi ex accusamus, exercitationem molestiae eius error maxime in sunt libero, qui cupiditate tempora possimus dolor quis fuga.
-}
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, porro arto dolors dlore accusantium, nesciunt autem in ut libero, laborum qui aspernatur aliquam quaerat dolorum perspiciatis tempora. Placeat maiores reprehenderit veritatis iure sequi ex accusamus, exercitationem molestiae eius error maxime in sunt libero, qui cupiditate tempora possimus dolor quis fuga.
+Lorem ipsum dolor sit, amet conseetur adipisicing elit. Similique hic quia dolores. Ipsu eos ibus omnis quibussumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similiue hic quia dolores. Ipsum eos temporis omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.
 Lorem ipsum dolor sit, amet consect
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.lo
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.lo
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temorus oquibusdam assumnda quia adipisunde exercitationem, consecttur cum dolor debitis itaque, harum non similique.lo
+Lorem ipsum dolor sit, amet consectetur aipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omquibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.lo
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.lo
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.lo
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique hic quia dolores. Ipsum eos temporibus omnis quibusdam assumenda quia adipisci unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.lo
