@@ -86,7 +86,7 @@ class MyLife {
   } hic quia dolorequibussumei unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.eos temporis omnis quibusdam assumenda quia adipisci unde exnsectetur cum dolor debitis itaque, harum non similique.
 Lorem ipsum dolor sit, amet consect
 Lorem ipsum dolor sit, amet consectetureos teendeecto repudiandaeiores perferendis ullam hic quam delectus quia.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Teinciduntab, officiis excepturi 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Teinciduntab, i 
 
 Lorem, ipsum dolor sit amet consectadipisicin li Oceptur voluoosfuga animi repudiastis  alias quidem ilestias id.
 tibus fugit aepe tempoibus laoriomni
