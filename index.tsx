@@ -85,7 +85,7 @@ class MyLife {
  
   } hic quia dolorequibussumei unde exercitationem, consectetur cum dolor debitis itaque, harum non 
 Lorem ipsum dolor sit, amet consect
-Lorem ipsum dolor sit, amet consectetureos teendeecto repudia
+Lorem ipsum dolor sit, amet consecteturecto repudia
 quidem ilestas id.
 tibus fugit aepe tempoibus lariomni 
 tibus fugit saepe, temoribaboriosam mgi fa msuiedicta molestias id.
