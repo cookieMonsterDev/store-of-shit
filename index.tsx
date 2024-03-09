@@ -83,7 +83,7 @@ class MyLife {
 
     this._lifeUpdates.
  
-  } hic quia dolorequibussumei unde exercitationem, consectetur cum dolor debitis itaque, harum non similique.eos temporis omnis quibusdam assumenda quia adipisci unde exnsectetur cum dolor debitis itaque, harum non similique.
+  } hic quia dolorequibussumei unde exercitationem, consectetur cum dolor debitis itaque, harum non 
 Lorem ipsum dolor sit, amet consect
 Lorem ipsum dolor sit, amet consectetureos teendeecto repudia
 quidem ilestas id.
