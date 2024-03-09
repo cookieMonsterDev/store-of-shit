@@ -87,8 +87,7 @@ class MyLife {
 Lorem ipsum dolor sit, amet consect
 Lorem ipsum dolor sit, amet consectetureos teendeecto repudia
 
-Lorem, ipsum dolor sit amet consectadipisicin li Oceptur voluoosfuga animi repudia
-tibus fugit saepe, temoribabrosam mgi a aumit molestias idindalectuseum, non a nemo au emo audecta stis  alias quidem ilestas id.
+Lorem, ipsum dolor sit amet cias idindalectuseum, non a nemo au emo audecta stis  alias quidem ilestas id.
 tibus fugit aepe tempoibus lariomni 
 tibus fugit saepe, temoribaboriosam mgi fa msuiedicta molestias id.
 tibus fugi
