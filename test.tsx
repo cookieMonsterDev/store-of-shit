@@ -8,8 +8,7 @@ Lorem ipsum dolor sit amet consectetur adipisicinaliquam labore ut vitae repudia
 Lorem ipsum dolor sit amet consectetur adipisicinaliquam labore ut vitae repudiandae tempora provident vero reiciendis a quam laudantium, iste aliquid iure, repellat nesciunt veritatis laboriosam dignissimos maxime.
 Lorem ipsum dolor sit amet consectetur adipisicinaliquam labore ut vitae repudiandae tempora provident vero reiciendis a quam laudantium, iste aliquid iure, repellat nesciunt veritatis laboriosam dignissimos maxime.
 Lorem ipsum dolor sit amet consectetur adipisicinaliquam labore ut vitae repudiandident vero reiciendis a quam laudantium, iste aliquid iure, repellat nesciunt veritatis laboriosam dignissimos maxime.
-Lorem ipsum dolor sit amet consectetur adipisicinaliquam lapudiandae tempora provident vciendaliquid itatisiure, repellat nesciunt veritatis laboriosam dignissimos maxime.
-Lorem ipsum dolor sit amet consectetur adipisicinaliquam labore ut vitae rtempendis aqre, repellrd iure, repellat nesciunt veritatis laboriosam dignissimos maxime.
+Lorem ipsum dolor sit amet consectetur adipisicinaliquam lapudiandae tempora provident vciendaliquid itasciunt veritatis laboriosam dignissimos maxime.
 
 
 
