@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit ametadipisicinadiani
-Lorem ipsum dolor sit amteturi
+Lorem ipsum dolor sit amtetur
 Lorem ipsum dolor sit amet co
 Lorem ipsum dolor sit amet co
 
