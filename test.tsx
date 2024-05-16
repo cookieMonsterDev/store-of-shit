@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet co
 Lorem ipsum dolor sit ametadi
 Lorem ipsum dolor sit amtetur
 Lorem ipsum dolor sit amet co
-Lorem ipsum dolor sit amet co
+Lorem ipsum dolor sit amet c
 
 
 
