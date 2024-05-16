@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adip
-Lorem ipsum dolor sit amet co
+Lorem ipsum d
 Lorem ipsum dolor sit amet co
 Lore
 Lorem ipsum dolor sit
