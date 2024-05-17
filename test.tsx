@@ -76,7 +76,7 @@ Lorem ipsum d
 Lorem ipsum dolor sit amet co
 Lore
 Lorem ipsum dolor sit
-Lorem ipsum dolor sit amet c
+Lorem ipsum dolor sit ame
 Lorem ip
 
 
