@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum d
 Lore
-Lorem ipsu
+Lo
 Lorem ip
 
 
