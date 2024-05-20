@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lo
 Lorem
 Lor
-Lo
+L
 Lore
 Lo
 
