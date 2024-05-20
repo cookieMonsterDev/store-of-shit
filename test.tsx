@@ -73,7 +73,7 @@ Lo
 
 Lor
 L
-Lore
+
 Lo
 
 
