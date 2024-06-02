@@ -61,9 +61,6 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet con
-Lorem ipsu
+Lorem ipsum dolor sit amet consectu
+
+Lo
