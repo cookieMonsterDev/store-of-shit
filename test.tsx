@@ -27,7 +27,6 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur ad
-
+Lorem ipsum dolor sit amet conse
 
 
