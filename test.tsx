@@ -4,5 +4,3 @@ Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
