@@ -3,5 +3,4 @@ Lorem ipsum dolor sit amet consectetur adipisic vita
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
 Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum dolor sit amet consectetur adipisicinadiani
-Lorem ipsum 
+Lorem ipsum dolor sit amet 
