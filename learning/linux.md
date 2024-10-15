@@ -30,3 +30,9 @@ pwd
 ```bash
 ls
 ```
+
+6. `touch` - allows to create a file if file does not exist
+
+```bash
+touch text
+```
