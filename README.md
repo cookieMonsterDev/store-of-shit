@@ -19,3 +19,8 @@ Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero i
 1914 translation by H. Rackham
 
 "On the other hand, we denounce wiright
+
+
+docker build . -t test-app
+
+docker run -d -p 5000:5000 test-app
