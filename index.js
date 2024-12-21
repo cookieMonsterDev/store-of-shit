@@ -50,7 +50,7 @@ const HttpMessage = Object.freeze({
 
 class HttpException extends Error {
   constructor(
-    message = HttpMessage.INTERNAL_SERVER_ERROR, 
+    message = HttpMessage.INTERNAL_SERVER_ERROR,
     status = HttpStatus.INTERNAL_SERVER_ERROR,
     error = null
   ) {
@@ -117,19 +117,31 @@ class PayloadTooLargeException extends HttpException {
 
 class UnsupportedMediaTypeException extends HttpException {
   constructor(error) {
-    super(HttpMessage.UNSUPPORTED_MEDIA_TYPE, HttpStatus.UNSUPPORTED_MEDIA_TYPE, error);
+    super(
+      HttpMessage.UNSUPPORTED_MEDIA_TYPE,
+      HttpStatus.UNSUPPORTED_MEDIA_TYPE,
+      error
+    );
   }
 }
 
 class UnprocessableEntityException extends HttpException {
   constructor(error) {
-    super(HttpMessage.UNPROCESSABLE_ENTITY, HttpStatus.UNPROCESSABLE_ENTITY, error);
+    super(
+      HttpMessage.UNPROCESSABLE_ENTITY,
+      HttpStatus.UNPROCESSABLE_ENTITY,
+      error
+    );
   }
 }
 
 class InternalServerErrorException extends HttpException {
   constructor(error) {
-    super(HttpMessage.INTERNAL_SERVER_ERROR, HttpStatus.INTERNAL_SERVER_ERROR, error);
+    super(
+      HttpMessage.INTERNAL_SERVER_ERROR,
+      HttpStatus.INTERNAL_SERVER_ERROR,
+      error
+    );
   }
 }
 
@@ -157,10 +169,16 @@ class GatewayTimeoutException extends HttpException {
   }
 }
 
-function HttpExceptionsHandler(error, _request, response, _next) {
+function httpExceptionsHandler(error, _request, response, _next) {
   const reason = error.error || "Something went wrong";
   const status = error.status || HttpStatus.INTERNAL_SERVER_ERROR;
   const message = error.message || HttpMessage.INTERNAL_SERVER_ERROR;
 
   response.status(status).json({ status, message, error: reason });
+}
+
+async function asyncHandler(fn) {
+  return function (...agrs) {
+    return Promise.resolve(() => fn(...agrs)).catch(agrs[agrs.length - 1]);
+  };
 }
