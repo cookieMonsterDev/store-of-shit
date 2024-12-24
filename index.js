@@ -193,7 +193,7 @@ const validateMiddleware = (schema) => {
     ["query", "params", "body"].forEach((key) => {
       if (!schema[key]) return;
 
-      const { error, value } = schemas[key].validate(req[key], {
+      const { error, value } = schema[key].validate(req[key], {
         abortEarly: false,
         allowUnknown: true,
         stripUnknown: true,
