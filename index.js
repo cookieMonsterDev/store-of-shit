@@ -189,9 +189,8 @@ const HttpException = require("./HttpException"); // Your custom exception class
 const validateMiddleware = (schema) => {
   return (req, _res, next) => {
     const errors = [];
-    const validationKeys = ["query", "params", "body"];
 
-    validationKeys.forEach((key) => {
+    ["query", "params", "body"].forEach((key) => {
       if (!schema[key]) return;
 
       const { error, value } = schemas[key].validate(req[key], {
@@ -210,4 +209,3 @@ const validateMiddleware = (schema) => {
     next();
   };
 };
-
