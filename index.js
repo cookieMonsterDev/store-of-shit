@@ -186,7 +186,7 @@ async function asyncHandler(fn) {
 const Joi = require("joi");
 const HttpException = require("./HttpException"); // Your custom exception class
 
-const validateMiddleware = (schema) => {
+exports.validateMiddleware = (schema) => {
   return (req, _res, next) => {
     const errors = [];
 
