@@ -233,3 +233,29 @@ const ModeratorSchema = new Schema(
   },
   { _id: false, timestamps: false }
 );
+
+const userHasPermission = (permissions, entity, permission) => {
+  if (!permissions || typeof permissions !== "object") return false;
+  const entityPermissions = permissions[entity];
+  if (!Array.isArray(entityPermissions)) return false;
+  return entityPermissions.includes(permission);
+};
+
+const adminPermissionMiddleware = (entity, permission) =>  async (req, _res, next) => {
+  if(!req.auth) return next(new UnauthorizedException("Invalid or expired token"));
+  const { _id, role} = req.auth;
+  if(role === Roles.USER) next();
+  try {
+    const admin = await adminModel.findOne({ _id }, "-hash -salt");
+    if(!admin) return next(new ForbiddenException("Access denied"));
+    const permissions = admin.permissions;
+    if(!permissions || typeof permissions !== "object") return next(new ForbiddenException("Access denied"));
+    const entityPermissions = permissions[entity];
+    if(!Array.isArray(entityPermissions)) return next(new ForbiddenException("Access denied"));
+    if(!entityPermissions.includes(permission)) return next(new ForbiddenException("Access denied"));
+    next();
+  } catch (error) {
+    next(new ForbiddenException("Access denied"));
+  }
+};
+
