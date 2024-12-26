@@ -177,35 +177,4 @@ function httpExceptionsHandler(error, _request, response, _next) {
   response.status(status).json({ status, message, error: reason });
 }
 
-async function asyncHandler(fn) {
-  return function (...agrs) {
-    return Promise.resolve(() => fn(...agrs)).catch(agrs[agrs.length - 1]);
-  };
-}
 
-const Joi = require("joi");
-const HttpException = require("./HttpException"); // Your custom exception class
-
-exports.validateMiddleware = (schema) => {
-  return (req, _res, next) => {
-    const errors = [];
-
-    ["query", "params", "body"].forEach((key) => {
-      if (!schema[key]) return;
-
-      const { error, value } = schema[key].validate(req[key], {
-        abortEarly: false,
-        allowUnknown: true,
-        stripUnknown: true,
-      });
-
-      if (error) errors.push(...error.details.map((detail) => detail.message));
-
-      req[key] = value;
-    });
-
-    if (errors.length > 0) return next(new UNPROCESSABLE_ENTITY(errors));
-
-    next();
-  };
-};
