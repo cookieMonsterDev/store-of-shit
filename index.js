@@ -177,4 +177,59 @@ function httpExceptionsHandler(error, _request, response, _next) {
   response.status(status).json({ status, message, error: reason });
 }
 
+const { Schema } = require("mongoose");
 
+const GlobalPermissions = Object.freeze({
+  READ: "READ",
+  WRITE: "WRITE",
+  DELETE: "DELETE",
+});
+
+const KreiseAdminPermissions = Object.freeze({
+  DELETE_POSTS: "DELETE_POSTS",
+  CREATE_USERS: "CREATE_USERS",
+  DELETE_USERS: "DELETE_USERS",
+  UPDATE_USERS: "UPDATE_USERS",
+});
+
+const ApplicationEntities = Object.freeze({
+  USERS: "users",
+  CORPS: "corps",
+  KREISE: "kreise",
+  // ...etc
+});
+
+const globalPermissionsList = Object.keys(GlobalPermissions);
+const applicationEntitiesList = Object.keys(ApplicationEntities);
+
+const defaultPermissions = applicationEntitiesList.reduce((acc, cur) => {
+  acc[cur] = defaultGPermissions;
+  return acc;
+}, {});
+
+const permissionsValidator = {
+  validator: (permissions) => {
+    if (typeof permissions !== "object" || permissions === null) return false;
+    return Object.entries(permissions).every(([entity, entityPermissions]) => {
+      if (!Array.isArray(entityPermissions)) return false;
+      if (!applicationEntitiesList.includes(entity)) return false;
+      return entityPermissions.every((e) => globalPermissionsList.includes(e));
+    });
+  },
+  message: (props) => {
+    const allowedPermissions = globalPermissionsList.join(", ");
+    return `Invalid permissions: ${props.value}. Allowed permissions are: ${allowedPermissions}`;
+  },
+};
+
+const ModeratorSchema = new Schema(
+  {
+    user: { type: Schema.Types.ObjectId, ref: "Users" },
+    permissions: {
+      type: Schema.Types.Mixed,
+      validate: permissionsValidator,
+      default: defaultPermissions,
+    },
+  },
+  { _id: false, timestamps: false }
+);
