@@ -16,26 +16,32 @@ sudo apt-get install nginx
 cd /etc/nginx
 ```
 
-3. Create nginx config e.g:  
+3. Create nginx config e.g:
+
+```nginx
 events {}
 
 http {
-  server {      listen 1234;
+  server {     
+    listen 1234;
 
-      server_name example.ubuntu.com;
+    server_name example.ubuntu.com;
 
-      root /home;
-      index index.html;
+    root /home;
+    index index.html;
 
-      location / {
-        try_files $uri $uri/ =404;
-      }     }
+    location / {
+      try_files $uri $uri/ =404;
+    }     
+  }
 }
+```
 
 4. Run the nginx server
 
+```bash
 sudo systemctl restart nginx
-
+```
 
 # Load Balancer
 
